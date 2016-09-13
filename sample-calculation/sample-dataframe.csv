@@ -1,0 +1,7 @@
+disease,type,probability
+A,Prior,0.1   
+B,Prior,0.2
+C,Prior,0.1
+A,Posterior,0.00586
+B,Posterior,0.0003
+C,Posterior,0.0135
